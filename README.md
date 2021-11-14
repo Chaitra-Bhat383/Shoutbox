@@ -1,5 +1,5 @@
-# Shoutbox
- Basic Chatbox using Socket Programming
+# Shoutbox:
+ Basic Chatbox using Socket Programming.
  
 SHOUT BOX- A place where multiple people can write short messages which are stored and published.
 
@@ -8,10 +8,10 @@ It is a fun feature, a great way for members to connect. It allows the users to 
 # What is a socket?
 Sockets allow communication between two different processes on the same or different machines. To be more precise, it's a way to talk to other computers using standard Unix file descriptors. In Unix, every I/O action is done by writing or reading a file descriptor. A file descriptor is just an integer associated with an open file and it can be a network connection, a text file, a terminal, or something else.
 
-# Expected Output
+# Expected Output:
 We plan to execute the following project using the command line. The output on the client side will consist of username to be entered by the user and the message to be displayed.
 
-# ngrok
+# ngrok:
 
 Ngrok is a third party site we have used to host our shoutbox. Ngrok allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on.
 
